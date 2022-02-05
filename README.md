@@ -1,5 +1,6 @@
 # ipinfo
-A terminal tool to lookup an IP address.
+A terminal tool to lookup an IP address.  
+Using [ipapi.co](https://ipapi.co/) to recieve information.  
 
 > ### How to use
 > 1. Clone this repo as a ZIP.
